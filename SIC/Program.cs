@@ -1,4 +1,16 @@
-﻿using System;
+﻿/*
+    "Buatlah sebuah program dengan fungsi LIST dengan persayaratan sebagai berikut :
+    
+1. buatlah 2 buah list yang jumlah elemenya diinputkan oleh pengguna via keyboard !
+2. Elemen list pertama berisi nama Planet yang ada galaksi ! contoh input (Merkurius, Venus, Bumi, Mars, Jupiter, Saturnus, Uranus, Neptunus, pluto.  
+3 Elemen list kedua berisi nama jarak planet dari matahari ! contoh input (1000km, 2000km, 3000km, 4000km, 5000km, 7000km, 800km, 9000km)
+4. Gabungkan isi 2 list tersebut sehingga jika program dijalankan akan menghasilkan Output
+    Merkurius 1000 km, Venus 2000km, Bumi 3000km, Mars 4000km, Jupiter 5000km, Saturnus 6000km, Uranus 7000km, Neptunus 8000km, Pluto 9000km !
+5. Tampilkan jumlah planet yang diinputkan oleh pengguna !
+6. Tampilkan jumlah jarak planet dari matahariyang diinputkan oleh pengguna !
+7. Lakukan pengecekan Planet dengan nama PLUTO apa ada dalam List !
+*/
+using System;
 using System.Collections.Generic;
 
 class Program
